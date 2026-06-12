@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Conexões Invisíveis: Como a Internet Funciona em 1 Minuto 🎙️
 
-## 🚀 Introdução
+## 📖 Descrição
+Este projeto é um mini-podcast de um minuto que explica, de forma simples e descontraída, o funcionamento básico da internet. Utilizando a analogia dos correios e cartões-postais, o episódio traduz um conceito técnico complexo (o tráfego de pacotes de dados) para que qualquer pessoa possa entender facilmente.
 
-> Woooow! Look at this 👀
+## 🛠️ Tecnologias Utilizadas
+* **Gemini (Google):** Utilizado para a criação e refinamento do roteiro de forma didática e no tempo correto.
+* **ElevenLabs:** Utilizado para a síntese de voz realista (conversão do roteiro de texto para áudio MP3 com voz natural).
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## ✍️ Processo de Criação
+1. **Roteirização:** Elaborei um prompt focado no Gemini para criar um texto com tom jovem, dinâmico e explicativo de cerca de 130 palavras, usando a analogia dos correios.
+2. **Gravação por IA:** Copiei o roteiro refinado e utilizei o modelo de síntese de voz *Eleven Multilingual v2* da ElevenLabs para dar vida ao apresentador com uma voz extremamente realista.
+3. **Organização:** Salvei o roteiro final e o arquivo de áudio gerado no repositório.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+* O roteiro completo pode ser lido em: `Podcast/roteiro_podcast_internet.md`
+* O arquivo de áudio gerado está disponível para audição em: `Podcast/podcast01.mp3`
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Criar conteúdo com IA Generativa mostra o quão acessível a tecnologia se tornou. O maior desafio foi criar um prompt preciso para que o Gemini explicasse um conceito técnico em poucas palavras e sem perder a naturalidade, garantindo que o ElevenLabs gerasse um áudio limpo e realista.
