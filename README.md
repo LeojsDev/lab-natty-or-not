@@ -13,8 +13,8 @@ Este projeto é um mini-podcast de um minuto que explica, de forma simples e des
 3. **Organização:** Salvei o roteiro final e o arquivo de áudio gerado no repositório.
 
 ## 🚀 Resultados
-* O roteiro completo pode ser lido em: `https://github.com/LeojsDev/lab-natty-or-not/Podcast/roteiro_podcast_internet.md`
-* O arquivo de áudio gerado está disponível para audição em: `https://github.com/LeojsDev/lab-natty-or-not/Podcast/podcast01.mp3`
+* [Clique aqui para ler o roteiro oficial 📝](https://github.com/LeojsDev/lab-natty-or-not/blob/main/Podcast/roteiro_podcast_internet.md)
+* [Clique aqui para ouvir o podcast gerado por IA 🎙️](https://github.com/LeojsDev/lab-natty-or-not/blob/main/Podcast/podcast01.mp3)
 
 ## 💭 Reflexão
 Criar conteúdo com IA Generativa mostra o quão acessível a tecnologia se tornou. O maior desafio foi criar um prompt preciso para que o Gemini explicasse um conceito técnico em poucas palavras e sem perder a naturalidade, garantindo que o ElevenLabs gerasse um áudio limpo e realista.
